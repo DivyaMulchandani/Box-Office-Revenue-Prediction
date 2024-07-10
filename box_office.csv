@@ -1,0 +1,80 @@
+movie_title,director_name,title_year,facenumber_in_poster,director_ig_followers,actor_1_name,actor_1_ig_follow,actor_2_name,actor_2_ig_follow,duration,genres,plot_keywords,buget,gross,num_critic_for_review,num_user_for_review,imdb_socre,num_awards_won,box_office
+Rogue One: A Star Wars Story,Gareth Edwards,2016,7,4451.0,Felicity Jones,99500.0,Diego Luma,13969980.28,133,Action| Adventure| Sci-Fi,0,200000000.0,532000000,65,373473,7.9,8,532171696.0
+Captain America: Civil War,Anthony Russo,2016,10,24000.0,Chris Evans,3700000.0,Robert Downey,56800000.0,147,Action| Adventure| Sci-Fi,0,250000000.0,408000000,75,451386,7.9,13,408080554.0
+The Jungle Book (2016),Jon Favreau,2016,1,240000.0,Neel Sethi,444000.0,Idris Elba,6500000.0,106,Adventure| Drama| Family,0,170000000.0,364000000,77,211530,7.5,2,363995937.0
+Zootopia,Byron Howard,2016,2,355591.1935,Ginnifer Goodwin,343000.0,Jason Bateman,13969980.28,108,Animation| Adventure| Comedy,0,89902666.67,341000000,78,320880,8.0,47,341264012.0
+Suicide Squad,David Ayer,2016,10,55300.0,Will Smith,276000.0,Margot Robbie,13969980.28,137,Action| Adventure| Fantasy,0,175000000.0,325000000,40,446021,6.2,13,325021779.0
+Moana,Ron Clements,2016,2,180.0,Aulil Cavalho,8327751.648,Dwayne Johnson,397000000.0,107,Animation| Adventure| Comedy,0,89902666.67,249000000,81,161930,7.6,21,5094414.0
+Doctor Strange,Scott Derrickson,2016,1,129000.0,Benedict Cumberback,8327751.648,Benedict Wong,13969980.28,115,Action| Adventure| Fantasy,0,165000000.0,233000000,72,358456,7.5,6,232630718.0
+Jason Bourne,Paul Greengrass,2016,1,0.0,Matt Damon,107000.0,Jeremy Renner,21000000.0,123,Action| Thriller,0,120000000.0,162000000,58,165127,6.7,3,162162120.0
+X-Men: Apocalypse,Bryan Singer,2016,11,236000.0,Olivia Munn,2900000.0,Oscar Isaac,13969980.28,144,Action| Adventure| Sci-Fi,0,178000000.0,155000000,52,300654,7.0,3,135729385.0
+La La Land,Damien Chazelle,2016,2,1959.0,Ryan Reylonds,51500000.0,Emma Stone,13969980.28,128,Comedy| Drama| Music,0,30000000.0,151000000,93,322878,8.1,232,151058124.0
+Ghostbusters (2016),Paul Feig,2016,5,175000.0,Chriis Hemsworth,58800000.0,Melissa Mcarthy,12700000.0,116,Action| Comedy| Fantasy,0,144000000.0,128000000,60,159583,5.3,4,128344089.0
+The Legend of Tarzan,David Yates,2016,2,5965.0,Alexander Skarsgard,49800.0,Margot Robbie,13969980.28,110,Action| Adventure| Drama,0,180000000.0,127000000,44,129910,6.3,1,126585313.0
+Bad Moms,Jon Lucas,2016,6,258000.0,Mila Kunis,8327751.648,Cathrine Hahn,30500.0,101,Comedy,0,20000000.0,113000000,60,78773,6.2,71,113217955.0
+Independence Day: Resurgence,Roland Emmerich,2016,0,37800.0,Jeff Goldblum,2600000.0,Bill Pullman,13969980.28,120,Action| Adventure| Sci-Fi,0,165000000.0,103000000,32,138944,5.3,6,103137295.0
+Arrival,Denis Villeneuve,2016,2,6812.0,Jeremy Renner,21000000.0,Forest Whiteker,253000.0,116,Drama| Mystery| Sci-Fi,0,47000000.0,101000000,81,407062,8.0,5,100501349.0
+Sausage Party,Greg Tiernan,2016,1,1220.0,Seth Rogan,10900000.0,Jonah Hill,2681.0,89,Animation| Adventure| Comedy,0,19000000.0,97685686,66,134603,6.2,1,97661826.0
+Ride Along 2,Tim Story,2016,2,55800.0,Ice Cubes,30900000.0,Kevin Hart,179000000.0,102,Action| Comedy,0,40000000.0,91221830,32,41035,5.9,3,87240689.0
+Miss Peregrine's Home for Peculiar Children,Tim Burton,2016,4,2200000.0,Eva Green,1300000.0,Ella Purnell,985000.0,127,Adventure| Drama| Family,0,110000000.0,87242834,57,119279,6.7,3,82035527.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,Dave Green,2016,4,36500.0,Megan Fox,21900000.0,Alan Ritchson,2800000.0,112,Action| Adventure| Comedy,0,135000000.0,82051601,40,66141,6.0,2,77037635.0
+Alice Through the Looking Glass,James Bobin,2016,2,30000.0,Mia Wasikowska,8327751.648,Johnny Depp,28700000.0,113,Adventure| Family| Fantasy,0,170000000.0,77041381,34,63741,6.2,3,75311445.0
+The Girl on the Train (2016),Tate Taylor,2016,1,355591.1935,Emily Blunt,8327751.648,Haley Bennett,310000.0,112,Crime| Drama| Mystery,0,45000000.0,75395035,48,119299,6.5,2,72655779.0
+Storks,Nicholas Stoller,2016,2,7135.0,Andy Samberg,726000.0,Katie Crown,1668.0,87,Animation| Adventure| Comedy,0,70000000.0,72679278,56,41567,6.8,1,67235683.0
+Lights Out,David F. Sandberg,2016,0,46700.0,Teresa Palmer,682.0,Gabriel Bateman,13969980.28,81,Horror,0,4900000.0,67268835,58,83078,6.3,1,389706608.4
+The Divergent Series: Allegiant,Robert Schwentke,2016,5,1670.0,Shailene Woodley,4700000.0,Theo James,89000.0,120,Action| Adventure| Mystery,0,89902666.67,66184051,33,78137,5.7,2,64060187.0
+Ice Age: Collision Course,Mike Thurmeier,2016,9,818.0,Stephenie Beatriz,2400000.0,Robert Cardone,13969980.28,94,Animation| Adventure| Comedy,0,105000000.0,64063008,34,39070,5.7,54,73098411.0
+London Has Fallen,Babak Najafi,2016,5,1435.0,Alon Aboutboul,15100.0,Waleed Zuateir,13969980.28,99,Action| Crime| Drama,0,60000000.0,62524260,28,107731,5.9,77,52069651.0
+Deepwater Horizon,Peter Berg,2016,1,144000.0,Mark Wahlberg,30100000.0,Kurt Russell,70200.0,107,Action| Drama| Thriller,0,110000000.0,61433527,68,107842,7.2,328,57642961.0
+My Big Fat Greek Wedding 2,Kirk Jones,2016,11,285000.0,Nia Vardalos,182000.0,john Corbett,13969980.28,94,Comedy| Family| Romance,0,89902666.67,59689605,37,22336,6.0,7,88900000.0
+Fences,Denzel Washington,2016,2,567000.0,Denzel Washington,567000.0,Viola Davis,12100000.0,94,Drama,0,24000000.0,57682904,79,65551,7.2,154,64400000.0
+Avengers: Endgame,Joe russo,2019,11,58600.0,Robert Downey,5680000.0,Chris Evans,18200000.0,139,"Action, Adventure, Sci-Fi",0,400000000.0,85837000,553,9500,8.6,68,2798000000.0
+Gisaengchung,Bong Joon Ho,2019,4,3210.0,Lee Sun Kyun,3403.0,song kang go,13969980.28,132,"Comedy, Drama, Thriller",0,15000000.0,858370000,601,3600,8.5,97,266800000.0
+The Shining,Stanley Kubrick,1980,0,578000.0,Jack Nicholson,89900.0,Danny Lloyd,6913.0,146,"Drama, Horror",0,19000000.0,44020000,384,2200,8.4,145,47000000.0
+The Dark Knight,Christopher Nolan,2008,1,227000.0,Christian Bale,442000.0,Aaron Eckhart,13969980.28,152,"Action, Crime, Drama",0,185000000.0,534860000,334,8700,9.0,68,1005000000.0
+The Shawshank Redemption,frank Darabont,1994,1,119.0,Tim Robbins,26900.0,Morgon Freeman,4400000.0,142,Drama,0,25000000.0,28340000,174,11000,9.3,57,58300000.0
+Spider-Man: Into the Spider-Verse,Peter Ramsey,2018,1,355591.1935,Shameik Moore,432000.0,Jake Johnson,1700000.0,117,"Animation, Action, Adventure",0,100000000.0,190240000,415,2200,8.4,49,375500000.0
+Inglourious Basterds,Quentin Tarantino,2009,6,554000.0,Brad Pitt,2800000.0,Diana Kruger,1100000.0,153,"Adventure, Drama, War",0,70000000.0,120540000,409,2100,8.3,49,321500000.0
+Pulp Fiction,Quentin Tarantino,1994,1,554000.0,John Travolta,5300000.0,Uma Thurman,1400000.0,154,"Crime, Drama",0,8000000.0,107930000,273,3700,8.9,33,213900000.0
+Avengers: Infinity War,Joe Russo,2018,23,58600.0,Robert Downey,56800000.0,Chris Evans,18200000.0,149,"Action, Adventure, Sci-Fi",0,325000000.0,678820000,527,4600,8.5,29,2048000000.0
+Toy Story 4,Josh Cooley,2019,11,487.0,Tom Hanks,9500000.0,Tim Allen,5010.0,100,"Animation, Adventure, Comedy",0,30000000.0,431960000,408,1400,8.1,54,1073000000.0
+Interstellar,Christopher Nolan,2014,1,227000.0,Matthew McConaughey,9700000.0,Anne Hathaway,32700000.0,169,"Adventure, Drama, Sci-Fi",0,165000000.0,188020000,488,5700,8.6,115,677500000.0
+The Matrix,Lilly Wachowski,1999,4,355591.1935,Keanu Reeves,8327751.648,Lawrence Fishburne,18100.0,136,"Action, Sci-Fi",0,63000000.0,171480000,221,5000,8.7,159,463500000.0
+The Godfather,Francis Ford Coppola,1972,1,384000.0,Marlon Brando,199000.0,Al Pacino,31700.0,175,"Crime, Drama",0,6000000.0,134970000,211,5500,9.2,254,245000000.0
+The Wolf of Wall Street,Martin Scorsese,2013,1,1900000.0,Leonaedo DICaprio,62100000.0,Jonah Hill,23300.0,180,"Biography, Crime, Drama",0,100000000.0,116900000,438,1800,8.2,22,392000000.0
+Green Book,Peter farrelly,2018,2,355591.1935,Viggo Mortensen,21000.0,Linda Cardellini,714000.0,130,"Biography, Comedy, Drama",0,23000000.0,85080000,432,1700,8.2,10,322100000.0
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,7,1449.0,Elijah Wood,536000.0,Ian McKellen,2300000.0,178,"Adventure, Drama, Fantasy",0,281000000.0,315540000,236,5800,8.8,15,871500000.0
+Inception,Christopher Nolan,2010,6,227000.0,Leonaedo DICaprio,62100000.0,Cillian Murphy,2000000.0,148,"Action, Adventure, Sci-Fi",0,160000000.0,292580000,469,4800,8.8,82,829900000.0
+Mad Max: Fury Road,George Miller,2015,2,355591.1935,Tom Hardy,9900000.0,Charlize Theron,7600000.0,120,"Action, Adventure, Sci-Fi",0,150000000.0,154060000,849,2300,8.1,66,375500000.0
+Taxi Driver,Martin Scorsese,1976,1,1900000.0,Robert De Niro,8327751.648,jodie Foster,4978.0,114,"Crime, Drama",0,1000000.0,28260000,318,1400,8.3,12,28400000.0
+Fight Club,David Fincher,1999,2,10600.0,Brad Pitt,2800000.0,Edward Norton,474000.0,139,Drama,0,63000000.0,37030000,352,4500,8.8,51,101200000.0
+The Green Mile,frank Darabont,1999,1,119.0,Tom Hanks,9500000.0,David Morse,31400.0,189,"Crime, Drama, Fantasy",0,60000000.0,136800000,217,2100,8.6,178,286800000.0
+Django Unchained,Quentin Tarantino,2012,3,554000.0,Jamie Foxx,17300000.0,Christoph Waltz,13969980.28,165,"Drama, Western",0,100000000.0,162810000,672,1800,8.4,45,425400000.0
+Gone Girl,David Fincher,2014,1,10600.0,Ben Affleck,96400.0,Rosamund Pike,1100000.0,149,"Drama, Mystery, Thriller",0,61000000.0,167770000,643,1800,8.1,61,369300000.0
+12 Angry Men,Sidney LUMET,1957,1,189.0,Henry Fonda,8327751.648,Lee J. Cobb,13969980.28,96,Drama,0,2000000.0,4360000,168,2100,8.9,20,389706608.4
+Gladiator,Ridley Scott,2000,1,355591.1935,Russell Crowe,1200000.0,Joaquin Phoenix,93800.0,155,"Action, Adventure, Drama",0,103000000.0,187710000,180,3000,8.5,12,460500000.0
+The Lord of the Rings: The Return of the King,Peter Jackson,2003,6,1449.0,Elijah Wood,536000.0,Viggo Mortensen,21000.0,201,"Adventure, Drama, Fantasy",0,94000000.0,377850000,300,4200,8.9,22,1142000000.0
+Forrest Gump,Robert Zemeckis,1994,1,876.0,Tom hanks,9500000.0,Robin Wright,692000.0,142,"Drama, Romance",0,55000000.0,330250000,110,3100,8.8,47,678200000.0
+The Dark Knight Rises,Christopher Nolan,2012,1,227000.0,Christian Bale,442000.0,Tom Hardy,9900000.0,164,"Action, Thriller",0,250000000.0,448140000,547,3800,8.4,41,1081000000.0
+Jurassic Park,Steven Spielberg,1993,0,1611.0,Sam Neill,25000.0,Laura Dern,13969980.28,127,"Action, Adventure, Sci-Fi",0,63000000.0,402450000,263,1400,8.1,93,1034000000.0
+Reservoir Dogs,Quentin Tarantino,1992,5,554000.0,Harvey Keitel,214.0,Tim Roth,44700.0,99,"Crime, Drama, Thriller",0,1000000.0,2830000,156,1300,8.3,29,3200000.0
+Apocalypse Now,Francis Ford Coppola,1979,1,384000.0,Marlon Brando,199000.0,Martin Sheen,2747.0,147,"Drama, Mystery, War",0,31000000.0,623525,94,16526,8.4,45,389706608.4
+Guardians of the Galaxy,James Gunn,2014,5,2700000.0,James Gunn,2700000.0,Zoe Saldana,1120000.0,121,"Action, Adventure, Comedy",0,170000000.0,566490,1574,5723,8.1,51,773300000.0
+The Lion King,Roger Allers,1994,2,17000.0,Beyonce,31900000.0,Donald Glover ,4800000.0,88,"Animation, Adventure, Drama",0,45000000.0,31708,88,12364,8.5,5,968500000.0
+American Beauty,Sam Mendes,1999,1,355591.1935,Mena Suvari ,305000.0,Kevin Spacy,602000.0,122,Drama,0,5000000.0,975750000,34,29052,8.3,21,356300000.0
+Kill Bill: Vol. 1,Quentin Tarantino,2003,1,355591.1935,Uma Thurman,1400000.0,Lucy Liu,1400000.0,111,"Action, Crime, Thriller",0,300000.0,525750000,43,1050705,8.1,54,180900000.0
+Goodfellas,Martin Scorsese,1990,3,1900000.0,Ray Liotta ,183000.0,Lorraine Bracco,69500.0,146,"Biography, Crime, Drama",0,25000000.0,35130000,21,29269,8.7,20,46800000.0
+Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,3,355591.1935,Emma Watson,7450000.0,Rupert Grint,500000.0,130,"Adventure, Drama, Fantasy",0,250000000.0,28575750,41,19742,8.1,18,1342000000.0
+L?n,Luc Besson,1994,1,355591.1935,Natalie Portman,9000000.0,Gary Oldman,170000.0,110,"Action, Crime, Drama",0,16000000.0,14625000,64,14718,8.5,17,45300000.0
+Blade Runner,Ridley Scott,1982,4,104000.0,Daryl Hannah,75800.0,Joana Cassidy,23100.0,117,"Action, Sci-Fi, Thriller",0,28000000.0,24652500,84,25177,8.1,16,33800000.0
+The Silence of the Lambs,Jonathan Demme,1991,1,355591.1935,Anthony Hopkins,5100000.0,Brooke Smith,24100.0,118,"Crime, Drama, Thriller",0,19000000.0,98055000,86,29660,8.6,124,272700000.0
+Back to the Future,Robert Zemeckis,1985,1,355591.1935,Michael J Fox,230000.0,Lea Thompson,457000.0,116,"Adventure, Comedy, Sci-Fi",0,19000000.0,1579575000,87,39823,8.5,109,389100000.0
+Requiem for a Dream,Darren Aronofsky,2000,1,317000.0,Jennifer Connelly,1400000.0,Jared Leto,1170000.0,102,Drama,0,4500000.0,2730000,71,28646,8.3,83,7400000.0
+Shutter Island,Martin Scorsese,2010,1,1900000.0,Leonardo DiCaprio,6210000.0,Mark Ruffalo,2050000.0,138,"Mystery, Thriller",0,80000000.0,960075000,63,26220,8.1,42,294800000.0
+Alien,Ridley Scott,1979,1,104000.0,Tom Skerritt,4368.0,John Hurt,13969980.28,117,"Horror, Sci-Fi",0,11000000.0,59175000,89,22292,8.4,4,203600000.0
+The Lord of the Rings: The Two Towers,Peter Jackson,2002,9,135000.0,Andrew Serkis,329000.0,Miranda Otto,834000.0,179,"Adventure, Drama, Fantasy",0,94000000.0,256912500,87,72895,8.7,75,947600000.0
+The Departed,Martin Scorsese,2006,3,1900000.0,Vera Farmiga,1200000.0,Leonardo DiCaprio,6210000.0,151,"Crime, Drama, Thriller",0,90000000.0,5918053145,89,58112,8.5,23,291500000.0
+Schindler's List,Steven Spielberg,1993,3,355591.1935,Liam Neeson,30300.0,Embeth Davidtz,41400.0,195,"Biography, Drama, History",0,22000000.0,60432771,95,22897,8.9,12,321300000.0
+Hacksaw Ridge,Mel Gibson,2016,2,355591.1935,Luke Bracey,314000.0,Teresa Palmer,1200000.0,139,"Biography, Drama, History",0,40000000.0,6168501,71,3480,8.1,7,182200000.0
+Stand by Me,Rob Reiner,1986,4,355591.1935,Wil Wheaton,1200000.0,Corey Feldman,192000.0,89,"Adventure, Drama",0,8000000.0,6293725129,75,13393,8.1,14,52300000.0
+Saving Private Ryan,Steven Spielberg,1998,5,355591.1935,Tom Hanks,9500000.0,Vin Diesel,10200000.0,169,"Drama, War",0,70000000.0,6418949124,91,41391,8.6,75,482300000.0
